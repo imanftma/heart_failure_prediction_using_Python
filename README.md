@@ -1,8 +1,8 @@
 # Heart failure prediction using Machine learning 
 
 **Objective:**</br>
-To predict the risk of getting a heart disease based on other contributing factors.
-Based on the data from different countries, we are doing predictive analysis which can used to identify risks for Canadian 
+To predict the risk of getting a heart disease based on clinical features
+This will be achieved by employing a binary classifiction machine learning model.
 
 **About the Project:**</br>
 According to a recent study, it is now a known fact that after cancer, heart disease is the second leading cause of death in Canada. As per the most recent data from 2012/13, about 2.4 million (8.5%) Canadian adults aged 20 years and older live with diagnosed ischemic heart disease, including 578,000 (2.1%) with a history of a heart attack whereas about 669,600 (3.6%) Canadian adults aged 40 years and older live with diagnosed heart failure.</br>
